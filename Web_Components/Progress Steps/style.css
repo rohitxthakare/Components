@@ -88,6 +88,10 @@ body {
     transform: scale(.98);
 }
 
+.btn:disabled {
+    opacity: 0.5;
+}
+
 
 @media  screen and (max-width: 800px) {
    .progress {
