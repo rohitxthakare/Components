@@ -15,3 +15,4 @@
 | -- | ----------- | --------- |
 | 01 | [Progress Steps](https://github.com/rohitxthakare/Components/tree/main/Web_Components/Progress%20Steps) | [View Demo](https://rohitxthakare.github.io/Components/Web_Components/Progress%20Steps/) |
 | 02 | [Rotating Navigation](https://github.com/rohitxthakare/Components/tree/main/Web_Components/Rotating%20Navigation) | [View Demo](https://rohitxthakare.github.io/Components/Web_Components/Rotating%20Navigation/) |
+| 03 | [Blurry Loading](https://github.com/rohitxthakare/Components/tree/main/Web_Components/Blurry%20Loading) | [View Demo](https://rohitxthakare.github.io/Components/Web_Components/Blurry%20Loading/) |
