@@ -17,3 +17,4 @@
 | 02 | [Rotating Navigation](https://github.com/rohitxthakare/Components/tree/main/Web_Components/Rotating%20Navigation) | [View Demo](https://rohitxthakare.github.io/Components/Web_Components/Rotating%20Navigation/) |
 | 03 | [Blurry Loading](https://github.com/rohitxthakare/Components/tree/main/Web_Components/Blurry%20Loading) | [View Demo](https://rohitxthakare.github.io/Components/Web_Components/Blurry%20Loading/) |
 | 04 | [Social Counter Increment](https://github.com/rohitxthakare/Components/tree/main/Web_Components/Social%20Counter%20Increment) | [View Demo](https://rohitxthakare.github.io/Components/Web_Components/Social%20Counter%20Increment/) |
+| 05 | [Random Choice Picker](https://github.com/rohitxthakare/Components/tree/main/Web_Components/Random%20Choice%20Picker) | [View Demo](https://rohitxthakare.github.io/Components/Web_Components/Random%20Choice%20Picker/) |
